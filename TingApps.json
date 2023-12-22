@@ -32,6 +32,52 @@
             "appPermissions": {}
         },
         {
+            "name": "番茄小说",
+            "bundleIdentifier": "com.dragon.read",
+            "developerName": "番茄小说",
+            "subtitle": "自用.",
+            "localizedDescription": "破解会员/n解锁所有功能/n需关闭圈X等代理工具的有关番茄小说的规则和重写/n如果还有广告或者其他问题，请卸载你之前的番茄小说后再安装",
+            "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/fqxs.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "6.0.5",
+                  "date": "2023-12-00",
+                  "localizedDescription": "番茄小说",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/fqxs.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Shadowrocket",
+            "bundleIdentifier": "com.liguangming.Shadowrocket",
+            "developerName": "Shadowrocket",
+            "subtitle": "自用.",
+            "localizedDescription": "自用",
+            "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/Shadowrocket.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "2.2.43",
+                  "date": "2023-12-00",
+                  "localizedDescription": "Shadowrocket",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Shadowrocket.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
             "name": "Lavochka",
             "bundleIdentifier": "com.lavochka.root",
             "developerName": "Lavochka",
