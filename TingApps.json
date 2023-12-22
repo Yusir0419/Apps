@@ -151,17 +151,17 @@
             "bundleIdentifier": "com.leemin.helium",
             "developerName": "Helium",
             "subtitle": "自用.",
-            "localizedDescription": "自用",
+            "localizedDescription": "秋名山汉化",
             "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/Helium.png",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
             "versions": [
                 {
-                  "version": "2.0.1",
+                  "version": "2.0.2",
                   "date": "2023-12-00",
                   "localizedDescription": "Helium汉化版",
-                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Helium.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Helium.tipa",
                   "size": 17400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
