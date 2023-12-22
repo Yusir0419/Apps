@@ -30,6 +30,29 @@
                 }
               ],
             "appPermissions": {}
+        },
+        {
+            "name": "测试APP",
+            "bundleIdentifier": "com.cyz.TestIPA",
+            "developerName": "filza",
+            "subtitle": "自用.",
+            "localizedDescription": "idk",
+            "iconURL": "",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.0",
+                  "date": "2023-12-00",
+                  "localizedDescription": "Filza完整版)",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/csApp.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
         }
     ],
     "news": []
