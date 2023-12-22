@@ -32,6 +32,75 @@
             "appPermissions": {}
         },
         {
+            "name": "Lavochka",
+            "bundleIdentifier": "com.lavochka.root",
+            "developerName": "Lavochka",
+            "subtitle": "自用.",
+            "localizedDescription": "自用",
+            "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/Lavochka.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.0",
+                  "date": "2023-12-00",
+                  "localizedDescription": "Lavochka",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Lavochka.tipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "电话助手",
+            "bundleIdentifier": "com.apple.mobilephone-call",
+            "developerName": "电话助手",
+            "subtitle": "自用.",
+            "localizedDescription": "自用",
+            "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/Phone.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "36",
+                  "date": "2023-12-00",
+                  "localizedDescription": "电话助手",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Phone.tipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "TrollSpeed",
+            "bundleIdentifier": "ch.xxtou.hudapp",
+            "developerName": "TrollSpeed",
+            "subtitle": "自用.",
+            "localizedDescription": "自用",
+            "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/TrollSpeed.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.9.3",
+                  "date": "2023-12-00",
+                  "localizedDescription": "TrollSpeed",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/TrollSpeed.tipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
             "name": "Helium汉化版",
             "bundleIdentifier": "com.leemin.helium",
             "developerName": "Helium",
