@@ -55,6 +55,29 @@
             "appPermissions": {}
         },
         {
+            "name": "Antoine",
+            "bundleIdentifier": "com.serena.Antoine",
+            "developerName": "Antoine",
+            "subtitle": "自用.",
+            "localizedDescription": "自用",
+            "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/Antoine.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.3",
+                  "date": "2023-12-00",
+                  "localizedDescription": "Antoine",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Antoine.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
             "name": "测试APP",
             "bundleIdentifier": "com.cyz.TestIPA",
             "developerName": "filza",
