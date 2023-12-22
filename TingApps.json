@@ -1,0 +1,36 @@
+{
+    "name": "Ting自用",
+    "subtitle": "自用",
+    "description": "自用APP",
+    "iconURL": "",
+    "headerURL": "",
+    "website": "no",
+    "tintColor": "#F54F32",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "Filza完整版",
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "developerName": "filza",
+            "subtitle": "自用.",
+            "localizedDescription": "idk",
+            "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/Filza.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "4.0",
+                  "date": "2023-12-00",
+                  "localizedDescription": "Filza完整版)",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Filza.tipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
