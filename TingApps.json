@@ -13,7 +13,7 @@
             "bundleIdentifier": "com.tigisoftware.Filza",
             "developerName": "filza",
             "subtitle": "自用.",
-            "localizedDescription": "idk",
+            "localizedDescription": "自用",
             "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/Filza.png",
             "tintColor": "#60DF89",
             "screenshotURLs": [
@@ -22,8 +22,31 @@
                 {
                   "version": "4.0",
                   "date": "2023-12-00",
-                  "localizedDescription": "Filza完整版)",
+                  "localizedDescription": "Filza完整版",
                   "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Filza.tipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Helium汉化版",
+            "bundleIdentifier": "com.leemin.helium",
+            "developerName": "Helium",
+            "subtitle": "自用.",
+            "localizedDescription": "自用",
+            "iconURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/ing/Helium.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "2.0.1",
+                  "date": "2023-12-00",
+                  "localizedDescription": "Helium汉化版",
+                  "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/Helium.ipa",
                   "size": 17400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
@@ -36,7 +59,7 @@
             "bundleIdentifier": "com.cyz.TestIPA",
             "developerName": "filza",
             "subtitle": "自用.",
-            "localizedDescription": "idk",
+            "localizedDescription": "自用",
             "iconURL": "",
             "tintColor": "#60DF89",
             "screenshotURLs": [
@@ -45,7 +68,7 @@
                 {
                   "version": "1.0",
                   "date": "2023-12-00",
-                  "localizedDescription": "Filza完整版)",
+                  "localizedDescription": "测试用",
                   "downloadURL": "https://raw.githubusercontent.com/Yusir0419/Apps/main/App/csApp.ipa",
                   "size": 17400000,
                   "minOSVersion": "14.0",
